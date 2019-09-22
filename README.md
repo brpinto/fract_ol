@@ -40,8 +40,9 @@ Scroll up / down : Permet de dézoomer / zoomer respectivement (suit la position
 Z: Déplacer la fractale vers le haut <br />
 Q: Déplacer la fractale vers la gauche <br />
 S: Déplacer la fractale vers le bas <br />
-D: Déplacer la fractale vers la Droite <br />
-R: Réinitialiser le maillage <br />
+D: Déplacer la fractale vers la droite <br />
+R: Réinitialiser la fractale <br />
 Flèches (haut / bas) : augmente / baisse la saturation des couleurs <br />
-+ (pavé numérique): Change les couleurs <br />
-Clic gauche (ensemble de julia): modifie (premier clic) / fixe (deuxième clic) la forme de la fractale.
+'+' (pavé numérique): Change les couleurs <br />
+Clic gauche (ensemble de julia): modifie (premier clic) / fixe (deuxième clic) la forme de la fractale. <br />
+1 / 2 / 3: Changement de fractale, respectivement : mandelbrot, julia, burning ship
